@@ -1,0 +1,30 @@
+.about {
+    background-color: #d9d9d9;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.lane {
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-weight: 400;
+}
+
+.block-img {
+    width: 25px;
+    height: 25px;
+    padding: 15px;
+}
+
+.text-block {
+    display: flex;
+    flex-direction: column;
+}
+
+.paragraph {
+    margin: 5px;
+}
+

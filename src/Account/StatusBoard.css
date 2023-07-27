@@ -1,0 +1,15 @@
+.money {
+    font-weight: 600;
+    letter-spacing: -1px;
+    font-size: 35px;
+    margin: 15px 0 15px 0;
+}
+
+.current-period {
+    font-weight: 300;
+    font-size: 14px;
+}
+
+.your-salary {
+    font-weight: 300;
+}

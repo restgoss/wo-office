@@ -1,0 +1,15 @@
+.logout {
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-weight: 400;
+    justify-content: center;
+    background-color: #8d2238;
+    color: #fff;
+    transition: opacity .3s linear;
+}
+
+.logout:hover {
+    opacity: .5;
+}
