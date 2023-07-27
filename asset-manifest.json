@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/wo-office/static/css/main.71f7921d.css",
-    "main.js": "/wo-office/static/js/main.dbb280a4.js",
+    "main.css": "/wo-office/static/css/main.80a6d6c8.css",
+    "main.js": "/wo-office/static/js/main.ffc5dfdc.js",
     "index.html": "/wo-office/index.html",
-    "main.71f7921d.css.map": "/wo-office/static/css/main.71f7921d.css.map",
-    "main.dbb280a4.js.map": "/wo-office/static/js/main.dbb280a4.js.map"
+    "main.80a6d6c8.css.map": "/wo-office/static/css/main.80a6d6c8.css.map",
+    "main.ffc5dfdc.js.map": "/wo-office/static/js/main.ffc5dfdc.js.map"
   },
   "entrypoints": [
-    "static/css/main.71f7921d.css",
-    "static/js/main.dbb280a4.js"
+    "static/css/main.80a6d6c8.css",
+    "static/js/main.ffc5dfdc.js"
   ]
 }
